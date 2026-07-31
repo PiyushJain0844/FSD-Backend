@@ -48,7 +48,7 @@ displayUserData().then(function(result) {
 // Async function for data json data fetch
 async function data() {
     await console.log("2: message");
-    const response = fetch("./studentdata.json");
+    const response = await fetch("./studentdata.json");
     console.log(response.status);
 
     const student = await response.json();
@@ -62,4 +62,4 @@ data().then((res) => {
     console.log(res);
 }).catch((error) => {
     console.log(error);
-})
+}) 
