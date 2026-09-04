@@ -51,5 +51,4 @@ app.listen(8000,() => {
 
 
 
-
 // Create RESTAPI for 100 products with id, name, price, description. Implement GET, POST, PUT and DELETE requests for products.
