@@ -28,6 +28,28 @@ app.post("/users",(req, res) => {
     res.json(user);
 });
 
+// PUT request to update a user by 10
+app.put("/users", (req, res) => {
+    let user = users.find(u => u.id == req.body.id);
+
+    if (!user) {
+        return res.status(404).json({
+            message: "User not found"
+        });
+    }
+
+    user.name = req.body.name;
+    user.email = req.body.email;
+
+    res.json(user);
+});
+
 app.listen(8000,() => {
     console.log("Server is running on http://localhost:8000")
 })
+
+
+
+
+
+// Create RESTAPI for 100 products with id, name, price, description. Implement GET, POST, PUT and DELETE requests for products.
