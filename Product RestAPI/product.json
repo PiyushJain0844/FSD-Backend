@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "description": "High performance laptop"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 25000,
+    "description": "5G smartphone with good camera"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 2000,
+    "description": "Wireless headphones with noise cancellation"
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "price": 1500,
+    "description": "Mechanical keyboard"
+  },
+  {
+    "id": 5,
+    "name": "Mouse",
+    "price": 800,
+    "description": "Wireless optical mouse"
+  },
+  {
+    "id": 6,
+    "name": "Monitor",
+    "price": 12000,
+    "description": "24 inch Full HD monitor"
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "price": 18000,
+    "description": "10 inch Android tablet"
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch",
+    "price": 3500,
+    "description": "Fitness tracking smartwatch"
+  },
+  {
+    "id": 9,
+    "name": "Power Bank",
+    "price": 1200,
+    "description": "10000mAh portable power bank"
+  },
+  {
+    "id": 10,
+    "name": "USB Cable",
+    "price": 300,
+    "description": "Fast charging USB cable"
+  },
+  {
+    "id": 11,
+    "name": "Bluetooth Speaker",
+    "price": 2500,
+    "description": "Portable wireless Bluetooth speaker"
+  },
+  {
+    "id": 12,
+    "name": "Webcam",
+    "price": 2200,
+    "description": "Full HD USB webcam"
+  },
+  {
+    "id": 13,
+    "name": "Printer",
+    "price": 9000,
+    "description": "Wireless color printer"
+  },
+  {
+    "id": 14,
+    "name": "Scanner",
+    "price": 6500,
+    "description": "High resolution document scanner"
+  },
+  {
+    "id": 15,
+    "name": "Router",
+    "price": 2800,
+    "description": "Dual band Wi-Fi router"
+  },
+  {
+    "id": 16,
+    "name": "SSD",
+    "price": 4500,
+    "description": "512GB high speed SSD"
+  },
+  {
+    "id": 17,
+    "name": "Hard Disk",
+    "price": 5000,
+    "description": "1TB external hard disk"
+  },
+  {
+    "id": 18,
+    "name": "Pen Drive",
+    "price": 700,
+    "description": "64GB USB flash drive"
+  },
+  {
+    "id": 19,
+    "name": "Power Adapter",
+    "price": 1000,
+    "description": "Fast charging power adapter"
+  },
+  {
+    "id": 20,
+    "name": "Laptop Stand",
+    "price": 1200,
+    "description": "Adjustable aluminum laptop stand"
+  },
+  {
+    "id": 21,
+    "name": "Gaming Chair",
+    "price": 15000,
+    "description": "Ergonomic gaming chair"
+  },
+  {
+    "id": 22,
+    "name": "Office Chair",
+    "price": 8500,
+    "description": "Comfortable ergonomic office chair"
+  },
+  {
+    "id": 23,
+    "name": "Desk Lamp",
+    "price": 900,
+    "description": "LED study desk lamp"
+  },
+  {
+    "id": 24,
+    "name": "Table Fan",
+    "price": 1800,
+    "description": "Compact high speed table fan"
+  },
+  {
+    "id": 25,
+    "name": "Air Cooler",
+    "price": 7500,
+    "description": "Energy efficient air cooler"
+  },
+  {
+    "id": 26,
+    "name": "Television",
+    "price": 35000,
+    "description": "43 inch smart LED television"
+  },
+  {
+    "id": 27,
+    "name": "Refrigerator",
+    "price": 28000,
+    "description": "Double door frost free refrigerator"
+  },
+  {
+    "id": 28,
+    "name": "Washing Machine",
+    "price": 24000,
+    "description": "Fully automatic washing machine"
+  },
+  {
+    "id": 29,
+    "name": "Microwave Oven",
+    "price": 9000,
+    "description": "Convection microwave oven"
+  },
+  {
+    "id": 30,
+    "name": "Electric Kettle",
+    "price": 1200,
+    "description": "Stainless steel electric kettle"
+  },
+  {
+    "id": 31,
+    "name": "Coffee Maker",
+    "price": 3500,
+    "description": "Automatic coffee maker"
+  },
+  {
+    "id": 32,
+    "name": "Toaster",
+    "price": 1800,
+    "description": "Two slice bread toaster"
+  },
+  {
+    "id": 33,
+    "name": "Mixer Grinder",
+    "price": 4500,
+    "description": "750 watt mixer grinder"
+  },
+  {
+    "id": 34,
+    "name": "Induction Cooktop",
+    "price": 2200,
+    "description": "Portable induction cooktop"
+  },
+  {
+    "id": 35,
+    "name": "Water Purifier",
+    "price": 11000,
+    "description": "RO water purification system"
+  },
+  {
+    "id": 36,
+    "name": "Iron",
+    "price": 1500,
+    "description": "Steam iron with temperature control"
+  },
+  {
+    "id": 37,
+    "name": "Hair Dryer",
+    "price": 1300,
+    "description": "Professional hair dryer"
+  },
+  {
+    "id": 38,
+    "name": "Vacuum Cleaner",
+    "price": 6500,
+    "description": "Powerful home vacuum cleaner"
+  },
+  {
+    "id": 39,
+    "name": "Electric Shaver",
+    "price": 2500,
+    "description": "Rechargeable electric shaver"
+  },
+  {
+    "id": 40,
+    "name": "Trimmer",
+    "price": 1800,
+    "description": "Cordless beard trimmer"
+  },
+  {
+    "id": 41,
+    "name": "Camera",
+    "price": 45000,
+    "description": "Digital mirrorless camera"
+  },
+  {
+    "id": 42,
+    "name": "Tripod",
+    "price": 1800,
+    "description": "Adjustable camera tripod"
+  },
+  {
+    "id": 43,
+    "name": "Camera Bag",
+    "price": 2200,
+    "description": "Water resistant camera bag"
+  },
+  {
+    "id": 44,
+    "name": "Memory Card",
+    "price": 900,
+    "description": "128GB high speed memory card"
+  },
+  {
+    "id": 45,
+    "name": "Action Camera",
+    "price": 12000,
+    "description": "4K action camera"
+  },
+  {
+    "id": 46,
+    "name": "Game Controller",
+    "price": 3500,
+    "description": "Wireless gaming controller"
+  },
+  {
+    "id": 47,
+    "name": "Gaming Mouse",
+    "price": 1800,
+    "description": "RGB gaming mouse"
+  },
+  {
+    "id": 48,
+    "name": "Gaming Keyboard",
+    "price": 3500,
+    "description": "RGB mechanical gaming keyboard"
+  },
+  {
+    "id": 49,
+    "name": "Gaming Headset",
+    "price": 3000,
+    "description": "Surround sound gaming headset"
+  },
+  {
+    "id": 50,
+    "name": "Gaming Monitor",
+    "price": 22000,
+    "description": "144Hz gaming monitor"
+  },
+  {
+    "id": 51,
+    "name": "Backpack",
+    "price": 1800,
+    "description": "Water resistant laptop backpack"
+  },
+  {
+    "id": 52,
+    "name": "Wallet",
+    "price": 900,
+    "description": "Leather wallet"
+  },
+  {
+    "id": 53,
+    "name": "Watch",
+    "price": 2500,
+    "description": "Classic analog wrist watch"
+  },
+  {
+    "id": 54,
+    "name": "Sunglasses",
+    "price": 1200,
+    "description": "UV protected sunglasses"
+  },
+  {
+    "id": 55,
+    "name": "Running Shoes",
+    "price": 2800,
+    "description": "Lightweight running shoes"
+  },
+  {
+    "id": 56,
+    "name": "Sports Shoes",
+    "price": 3200,
+    "description": "Comfortable sports shoes"
+  },
+  {
+    "id": 57,
+    "name": "T-Shirt",
+    "price": 700,
+    "description": "Cotton casual T-shirt"
+  },
+  {
+    "id": 58,
+    "name": "Jeans",
+    "price": 1800,
+    "description": "Regular fit denim jeans"
+  },
+  {
+    "id": 59,
+    "name": "Jacket",
+    "price": 3500,
+    "description": "Winter casual jacket"
+  },
+  {
+    "id": 60,
+    "name": "Hoodie",
+    "price": 1600,
+    "description": "Warm cotton hoodie"
+  },
+  {
+    "id": 61,
+    "name": "Notebook",
+    "price": 150,
+    "description": "200 page ruled notebook"
+  },
+  {
+    "id": 62,
+    "name": "Pen",
+    "price": 20,
+    "description": "Smooth writing ball pen"
+  },
+  {
+    "id": 63,
+    "name": "Pencil",
+    "price": 10,
+    "description": "HB graphite pencil"
+  },
+  {
+    "id": 64,
+    "name": "School Bag",
+    "price": 1400,
+    "description": "Durable school backpack"
+  },
+  {
+    "id": 65,
+    "name": "Calculator",
+    "price": 500,
+    "description": "Scientific calculator"
+  },
+  {
+    "id": 66,
+    "name": "Desk Organizer",
+    "price": 400,
+    "description": "Multi compartment desk organizer"
+  },
+  {
+    "id": 67,
+    "name": "Whiteboard",
+    "price": 1200,
+    "description": "Magnetic whiteboard"
+  },
+  {
+    "id": 68,
+    "name": "Marker Set",
+    "price": 250,
+    "description": "Set of colorful whiteboard markers"
+  },
+  {
+    "id": 69,
+    "name": "Stapler",
+    "price": 150,
+    "description": "Heavy duty office stapler"
+  },
+  {
+    "id": 70,
+    "name": "File Folder",
+    "price": 100,
+    "description": "Plastic document file folder"
+  },
+  {
+    "id": 71,
+    "name": "Bluetooth Earbuds",
+    "price": 1800,
+    "description": "True wireless Bluetooth earbuds"
+  },
+  {
+    "id": 72,
+    "name": "Neckband",
+    "price": 1200,
+    "description": "Wireless Bluetooth neckband"
+  },
+  {
+    "id": 73,
+    "name": "Soundbar",
+    "price": 6500,
+    "description": "Home theater soundbar"
+  },
+  {
+    "id": 74,
+    "name": "Home Theater",
+    "price": 15000,
+    "description": "5.1 channel home theater system"
+  },
+  {
+    "id": 75,
+    "name": "Microphone",
+    "price": 2500,
+    "description": "USB condenser microphone"
+  },
+  {
+    "id": 76,
+    "name": "Projector",
+    "price": 18000,
+    "description": "Full HD multimedia projector"
+  },
+  {
+    "id": 77,
+    "name": "Projector Screen",
+    "price": 3500,
+    "description": "Portable projector screen"
+  },
+  {
+    "id": 78,
+    "name": "Smart Bulb",
+    "price": 700,
+    "description": "Wi-Fi enabled smart LED bulb"
+  },
+  {
+    "id": 79,
+    "name": "Smart Plug",
+    "price": 900,
+    "description": "Wi-Fi enabled smart plug"
+  },
+  {
+    "id": 80,
+    "name": "Security Camera",
+    "price": 3500,
+    "description": "Indoor Wi-Fi security camera"
+  },
+  {
+    "id": 81,
+    "name": "USB Hub",
+    "price": 900,
+    "description": "4 port USB 3.0 hub"
+  },
+  {
+    "id": 82,
+    "name": "HDMI Cable",
+    "price": 500,
+    "description": "High speed HDMI cable"
+  },
+  {
+    "id": 83,
+    "name": "Ethernet Cable",
+    "price": 300,
+    "description": "High speed Cat6 ethernet cable"
+  },
+  {
+    "id": 84,
+    "name": "Laptop Charger",
+    "price": 2500,
+    "description": "Universal laptop power adapter"
+  },
+  {
+    "id": 85,
+    "name": "Phone Charger",
+    "price": 1000,
+    "description": "Fast charging smartphone adapter"
+  },
+  {
+    "id": 86,
+    "name": "Wireless Charger",
+    "price": 1300,
+    "description": "Fast wireless charging pad"
+  },
+  {
+    "id": 87,
+    "name": "Phone Case",
+    "price": 400,
+    "description": "Shockproof smartphone case"
+  },
+  {
+    "id": 88,
+    "name": "Screen Protector",
+    "price": 250,
+    "description": "Tempered glass screen protector"
+  },
+  {
+    "id": 89,
+    "name": "Selfie Stick",
+    "price": 700,
+    "description": "Bluetooth selfie stick tripod"
+  },
+  {
+    "id": 90,
+    "name": "Mobile Holder",
+    "price": 500,
+    "description": "Adjustable mobile phone holder"
+  },
+  {
+    "id": 91,
+    "name": "Fitness Band",
+    "price": 2200,
+    "description": "Activity and fitness tracking band"
+  },
+  {
+    "id": 92,
+    "name": "Yoga Mat",
+    "price": 900,
+    "description": "Non-slip exercise yoga mat"
+  },
+  {
+    "id": 93,
+    "name": "Dumbbells",
+    "price": 1500,
+    "description": "Pair of adjustable dumbbells"
+  },
+  {
+    "id": 94,
+    "name": "Skipping Rope",
+    "price": 300,
+    "description": "Adjustable fitness skipping rope"
+  },
+  {
+    "id": 95,
+    "name": "Water Bottle",
+    "price": 600,
+    "description": "Stainless steel reusable water bottle"
+  },
+  {
+    "id": 96,
+    "name": "Lunch Box",
+    "price": 700,
+    "description": "Insulated stainless steel lunch box"
+  },
+  {
+    "id": 97,
+    "name": "Travel Bag",
+    "price": 2200,
+    "description": "Large durable travel bag"
+  },
+  {
+    "id": 98,
+    "name": "Umbrella",
+    "price": 500,
+    "description": "Windproof folding umbrella"
+  },
+  {
+    "id": 99,
+    "name": "Torch",
+    "price": 800,
+    "description": "Rechargeable LED flashlight"
+  },
+  {
+    "id": 100,
+    "name": "Bluetooth Tracker",
+    "price": 1500,
+    "description": "Small Bluetooth item tracking device"
+  }
+] 
