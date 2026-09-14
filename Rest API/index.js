@@ -46,9 +46,4 @@ app.put("/users", (req, res) => {
 
 app.listen(8000,() => {
     console.log("Server is running on http://localhost:8000")
-})
-
-
-
-
-// Create RESTAPI for 100 products with id, name, price, description. Implement GET, POST, PUT and DELETE requests for products.
+}) 
