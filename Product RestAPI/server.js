@@ -1,7 +1,7 @@
 // Create RESTAPI for 100 products with id, name, price, description. Implement GET, POST, PUT and DELETE requests for products.
 
 import express from 'express';
-import product from './product.json';
+import products from './product.json' with { type: 'json' };
 
 const app = express();
 app.use(express.json());
