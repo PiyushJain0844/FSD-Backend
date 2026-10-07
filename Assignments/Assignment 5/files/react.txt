@@ -1,0 +1,16 @@
+REACT NOTES
+
+1. What is React?
+React is a JavaScript library used to build user interfaces, especially single-page applications.
+
+2. Components
+Components are reusable building blocks of a React application.
+They can contain JSX, logic and styling.
+
+3. JSX
+JSX allows us to write HTML-like syntax inside JavaScript.
+It makes UI code easier to understand.
+
+4. State
+State stores data that can change during the lifetime of a component.
+The useState hook is commonly used to manage state.
