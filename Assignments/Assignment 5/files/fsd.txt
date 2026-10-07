@@ -1,0 +1,16 @@
+FULL STACK DEVELOPMENT NOTES
+
+1. What is Full Stack Development?
+Full Stack Development means developing both the frontend and backend parts of a web application.
+
+2. Frontend
+The frontend is the part of a website that users see and interact with.
+Common technologies are HTML, CSS, JavaScript and React.
+
+3. Backend
+The backend handles server-side logic, APIs, authentication and communication with databases.
+Node.js and Express are commonly used backend technologies.
+
+4. Database
+A database is used to store and manage application data.
+Examples include MongoDB and MySQL.
