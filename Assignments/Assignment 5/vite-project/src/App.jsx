@@ -7,15 +7,15 @@ function App() {
   const notes = [
     {
       name: "FSD",
-      file: "/files/fsd.pdf",
+      file: "/files/fsd.txt",
     },
     {
       name: "React",
-      file: "/files/react.pdf",
+      file: "/files/react.txt",
     },
     {
       name: "JavaScript",
-      file: "/files/javascript.pdf",
+      file: "/files/javascript.txt",
     },
   ];
 
