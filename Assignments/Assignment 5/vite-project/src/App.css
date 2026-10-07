@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f6f7fb;
+}
+
+.app {
+  min-height: 100vh;
+  padding-top: 65px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0 0 50px;
+  color: #222;
+}
+
+.search-box {
+  width: 55%;
+  max-width: 850px;
+  height: 86px;
+  margin: 0 auto 45px;
+
+  background-color: white;
+  border: 2px solid #555;
+  border-radius: 6px;
+
+  display: flex;
+  align-items: center;
+  padding: 0 30px;
+
+  text-align: left;
+}
+
+.search-box span {
+  font-size: 30px;
+  margin-right: 22px;
+}
+
+.search-box input {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 27px;
+  color: #333;
+}
+
+.search-box input::placeholder {
+  color: #777;
+}
+
+.notes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.note-item {
+  margin-bottom: 25px;
+}
+
+.note-item h2 {
+  margin: 0 0 14px;
+  font-size: 36px;
+  color: #222;
+}
+
+.note-item button {
+  background-color: white;
+  border: 1px solid #999;
+  border-radius: 5px;
+
+  padding: 10px 25px;
+  font-size: 20px;
+
+  cursor: pointer;
+}
+
+.note-item button:hover {
+  background-color: #eee;
+}
+
+.no-result {
+  font-size: 22px;
+  color: #777;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .app {
+    padding-top: 40px;
+  }
+
+  h1 {
+    font-size: 38px;
+    margin-bottom: 35px;
+  }
+
+  .search-box {
+    width: 85%;
+    height: 65px;
+    padding: 0 18px;
+  }
+
+  .search-box span {
+    font-size: 24px;
+    margin-right: 12px;
+  }
+
+  .search-box input {
+    font-size: 20px;
+  }
+
+  .note-item h2 {
+    font-size: 30px;
+  }
+}
