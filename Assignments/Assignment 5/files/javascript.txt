@@ -1,0 +1,15 @@
+JAVASCRIPT NOTES
+
+1. What is JavaScript?
+JavaScript is a programming language used to add logic and interactivity to web pages and applications.
+
+2. Variables
+Variables are used to store data values.
+JavaScript provides let, const and var for declaring variables.
+
+3. Functions
+A function is a reusable block of code designed to perform a particular task.
+
+4. DOM
+DOM stands for Document Object Model.
+It represents an HTML document as objects and allows JavaScript to change webpage content and elements.
